@@ -3,7 +3,7 @@
 Datasets used : Aggregation, Compound, R15, Jain, Path-based, Spiral, D31 
 All these datasets are available online for educational use.
 Note: Permission might be required to access them. 
-For plots I have used Weka
+For plots(.arff files) I have used Weka
 
 1 Clustering
 ------------------
